@@ -4,6 +4,8 @@ import './App.css'
 import Aynal from './components/Aynal';
 import Footer from './components/Footer';
 import Contact from "./components/Contact";
+import Services from './components/Services';
+
 function App() {
  
 
@@ -16,6 +18,7 @@ function App() {
         </div>
         <Aynal />
         <Contact />
+        <Services />
         <Footer />
     </>
   )
