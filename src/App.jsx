@@ -2,7 +2,7 @@ import { useState } from 'react'
 import Navbar from "./components/Navbar";
 import './App.css'
 import Aynal from './components/Aynal';
-
+import Footer from './components/Footer';
 import Contact from "./components/Contact";
 function App() {
  
@@ -16,6 +16,7 @@ function App() {
         </div>
         <Aynal />
         <Contact />
+        <Footer />
     </>
   )
 }

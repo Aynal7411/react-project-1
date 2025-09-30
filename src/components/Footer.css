@@ -1,0 +1,25 @@
+.footer {
+  background-color: hsl(271, 82%, 36%);
+  color: hsl(0, 19%, 87%);
+  text-align: center;
+  padding: 10px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  top: 20px;
+}
+
+.social-links {
+  margin-top: 10px;
+}
+
+.social-links a {
+  margin: 0 10px;
+  color: #fff;
+  font-size: 1.2rem;
+  transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+  color: #f39c12; /* gold-orange hover */
+}
