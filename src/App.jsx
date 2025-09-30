@@ -7,7 +7,7 @@ import Contact from "./components/Contact";
 import Services from './components/Services';
 import SelectExample from './components/Select';
 import DependentDropdown from'./components/Selectm';
-
+import StatsCard from './components/Card';
 function App() {
  
 
@@ -18,6 +18,7 @@ function App() {
         <Aynal />
         <Contact />
         <Services />
+        <StatsCard />
         <SelectExample />
        <DependentDropdown />
         <Footer />
