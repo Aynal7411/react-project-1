@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import "./Navbar.css"; // আলাদা CSS ফাইল ব্যবহার করব
 
+
 export default function Navbar() {
   // State for search
   const [search, setSearch] = useState("");

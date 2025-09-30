@@ -2,6 +2,8 @@ import { useState } from 'react'
 import Navbar from "./components/Navbar";
 import './App.css'
 import Aynal from './components/Aynal';
+
+import Contact from "./components/Contact";
 function App() {
  
 
@@ -13,6 +15,7 @@ function App() {
       <p>This is a simple React application with a Navbar component.</p>
         </div>
         <Aynal />
+        <Contact />
     </>
   )
 }
