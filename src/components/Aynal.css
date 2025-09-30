@@ -1,0 +1,21 @@
+.aynal {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.2rem;
+    color: #96078f;
+    background-color: beige;
+    padding: 10px;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px #e74b4b1a;
+
+}
+.aynal h1 {
+    margin-bottom: 10px;
+    font-size: 2rem;
+    color: #d6336c;
+}
+.aynal p {
+    font-size: 1rem;
+    color: #130303;
+}
+
